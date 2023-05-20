@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/python3
 """Alx Interview: UTF-8 Validation"""
 from typing import List
 
