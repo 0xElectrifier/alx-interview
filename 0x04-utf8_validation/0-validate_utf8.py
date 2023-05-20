@@ -16,7 +16,7 @@ def validUTF8(data):
         return None
     valid = True
     for value in data:
-        if value < 0 or value > 127:
+        if (type(value) is not int) or (not (0 <= value <= 127)):
             valid = False
             break
 
