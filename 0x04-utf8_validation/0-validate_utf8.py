@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-Alx Interview: UTF-8 Validation
+Alx Interview UTF-8 Validation
 """
 
 from typing import List
