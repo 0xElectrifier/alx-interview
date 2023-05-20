@@ -8,8 +8,8 @@ from typing import List
 
 def validUTF8(data: List) -> List[int]:
     """
-    Method that determines if a given data set represents
-    a valid UTF-8 encoding.
+    Determines if a given data set represents a valid UTF-8 encoding.
+
     Args:
         data(list): A data set with values to be tested
     Returns:
